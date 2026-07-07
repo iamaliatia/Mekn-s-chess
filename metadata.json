@@ -1,0 +1,6 @@
+{
+  "name": "Meknes Chess Hub",
+  "description": "منصة تفاعلية للعب ومناقشة الشطرنج لمجتمع مكناس، تشمل اللعب ضد الحاسوب، حل الألغاز، ومنتدى نقاش مستوحى من المحادثات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
